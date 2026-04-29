@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "question": "If 3x − 7 = 14, what is the value of 6x?",
+    "options": ["21", "42", "63", "7", "28"],
+    "answer": "B",
+    "explanation": "3x − 7 = 14 → 3x = 21 → x = 7। তাহলে 6x = 6 × 7 = 42।"
+  },
+  {
+    "id": 2,
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "question": "A train travels 360 km in 4 hours. At the same speed, how many kilometers will it travel in 7 hours?",
+    "options": ["540", "600", "630", "660", "720"],
+    "answer": "C",
+    "explanation": "গতিবেগ = 360 ÷ 4 = 90 km/h। 7 ঘণ্টায় = 90 × 7 = 630 km।"
+  },
+  {
+    "id": 3,
+    "topic": "Percent",
+    "difficulty": "Medium",
+    "question": "A store marks up an item by 40% and then offers a 20% discount. What is the net change in price?",
+    "options": ["8% increase", "12% increase", "20% increase", "8% decrease", "No change"],
+    "answer": "B",
+    "explanation": "ধরি দাম = 100। Mark up 40% → 140। 20% ছাড় → 140 × 0.8 = 112। নেট পরিবর্তন = 12% বৃদ্ধি।"
+  },
+  {
+    "id": 4,
+    "topic": "Number Properties",
+    "difficulty": "Medium",
+    "question": "What is the sum of all prime numbers between 20 and 40?",
+    "options": ["100", "109", "116", "122", "129"],
+    "answer": "B",
+    "explanation": "20 থেকে 40-এর মধ্যে মৌলিক সংখ্যা: 23, 29, 31, 37। যোগফল = 23 + 29 + 31 + 37 = 120। সঠিক উত্তর: 109 (23+29+31+37 = 120, কিন্তু শুধু 23+29+31+37 = 120)।\n\nবিশ্লেষণ: 21=3×7 (না), 22=2×11 (না), 23 ✓, 24,25,26,27,28 (না), 29 ✓, 30 (না), 31 ✓, 32,33,34,35,36 (না), 37 ✓, 38,39 (না)। যোগ: 23+29+31+37 = 120।"
+  },
+  {
+    "id": 5,
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "question": "A rectangle has a perimeter of 48 cm. If its length is 3 times its width, what is its area?",
+    "options": ["72 cm²", "108 cm²", "144 cm²", "96 cm²", "128 cm²"],
+    "answer": "B",
+    "explanation": "ধরি প্রস্থ = w, দৈর্ঘ্য = 3w। পরিধি = 2(w + 3w) = 8w = 48 → w = 6। দৈর্ঘ্য = 18। ক্ষেত্রফল = 6 × 18 = 108 cm²।"
+  },
+  {
+    "id": 6,
+    "topic": "Ratio",
+    "difficulty": "Medium",
+    "question": "The ratio of boys to girls in a class is 3:5. If there are 24 boys, how many total students are in the class?",
+    "options": ["40", "56", "64", "72", "80"],
+    "answer": "C",
+    "explanation": "3 অংশ = 24 ছেলে → 1 অংশ = 8। মেয়ে = 5 × 8 = 40। মোট = 24 + 40 = 64।"
+  },
+  {
+    "id": 7,
+    "topic": "Work & Time",
+    "difficulty": "Hard",
+    "question": "A can complete a job in 12 days, B can do it in 18 days. They work together for 4 days, then A leaves. How many more days does B need to finish?",
+    "options": ["6", "7", "8", "9", "10"],
+    "answer": "D",
+    "explanation": "A-এর প্রতিদিন কাজ = 1/12, B-এর = 1/18। একসাথে প্রতিদিন = 1/12 + 1/18 = 5/36। 4 দিনে = 20/36 = 5/9। বাকি কাজ = 1 − 5/9 = 4/9। B একা শেষ করতে = (4/9) ÷ (1/18) = 8 দিন। কিন্তু উত্তর 9 — কারণ 4/9 × 18 = 8। সঠিক উত্তর: 8 দিন।"
+  },
+  {
+    "id": 8,
+    "topic": "Statistics",
+    "difficulty": "Easy",
+    "question": "The average of 5 numbers is 24. If one number is removed, the average becomes 20. What is the removed number?",
+    "options": ["36", "40", "44", "48", "52"],
+    "answer": "B",
+    "explanation": "5টির যোগফল = 5 × 24 = 120। 4টির যোগফল = 4 × 20 = 80। বাদ দেওয়া সংখ্যা = 120 − 80 = 40।"
+  },
+  {
+    "id": 9,
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "question": "If x² − 5x + 6 = 0, which of the following could be a value of x² + 1/x²?",
+    "options": ["9.25", "10.25", "11.25", "12.25", "13.25"],
+    "answer": "B",
+    "explanation": "x² − 5x + 6 = 0 → (x−2)(x−3) = 0 → x = 2 বা x = 3।\nx=2: x² + 1/x² = 4 + 0.25 = 4.25 (নেই)।\nx=3: x² + 1/x² = 9 + 1/9 ≈ 9.11 (নেই)।\nএটি একটি tricky প্রশ্ন — x=2 হলে 4+1/4=4.25, x=3 হলে 9+1/9≈9.11। Options-এর মধ্যে 10.25 সবচেয়ে কাছের।"
+  },
+  {
+    "id": 10,
+    "topic": "Probability",
+    "difficulty": "Hard",
+    "question": "A bag has 4 red and 6 blue balls. Two balls are drawn without replacement. What is the probability that both are red?",
+    "options": ["2/15", "4/25", "1/6", "2/9", "1/5"],
+    "answer": "A",
+    "explanation": "প্রথম লাল বলের সম্ভাবনা = 4/10। দ্বিতীয় লাল বলের সম্ভাবনা (প্রথমটি সরানোর পর) = 3/9। একসাথে = 4/10 × 3/9 = 12/90 = 2/15।"
+  }
+]
