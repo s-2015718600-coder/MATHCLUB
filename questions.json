@@ -209,5 +209,15 @@
     "answer": "E",
     "explanation": "১. যেহেতু দাম অপরিবর্তিত রেখে প্রতি আউন্সের দাম ১০% বাড়ানো হচ্ছে, তাই জারের আয়তন বা ভলিউম $\\frac{১}{১.১}$ গুণ হতে হবে।\n\n২. সিলিন্ডারের আয়তন $V \\propto d^2 h$।\nব্যাস ১/৫ কমানোর অর্থ হলো নতুন ব্যাস আগের ব্যাসের ৪/৫ গুণ।\n\n৩. ধরি, আদি উচ্চতা $h$ এবং নতুন উচ্চতা $H$।\nশর্তমতে, $V_{new} = \\frac{১}{১.১} \\times V_{old}$\nবা, $(\\frac{৪}{৫}d)^2 \\times H = \\frac{১}{১.১} \\times d^2 \\times h$\nবা, $\\frac{১৬}{২৫} \\times H = \\frac{১০}{১১} \\times h$\nবা, $H = \\frac{১০ \\times ২৫}{১১ \\times ১৬} \\times h = \\frac{২৫০}{১৭৬} \\times h \\approx ১.৪২ \times h$\n\nঅর্থাৎ উচ্চতা ৪২% বৃদ্ধি করতে হবে। সঠিক উত্তর (E)।"
   }
+  ,
+  {
+    "id": 23,
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "question": "A dishonest milkman mixes water (costing nothing) with milk costing Rs.33 per litre so as to make a profit of 20% on cost when he sells the mixture for Rs.36. In what ratio should he mix the water and milk?",
+    "options": ["1:20", "1:10", "1:8", "1:4", "6:11"],
+    "answer": "B",
+    "explanation": "১. প্রথমে আমাদের মিশ্রণের ক্রয়মূল্য (Cost Price) বের করতে হবে।\nবিক্রয়মূল্য ৩৬ টাকা এবং লাভ ২০% হলে, ক্রয়মূল্য = $৩৬ / ১.২ = ৩০$ টাকা।\n\n২. এখন আমরা Alligation পদ্ধতি ব্যবহার করতে পারি:\nদুধের দাম: ৩৩ টাকা\nপানির দাম: ০ টাকা\nমিশ্রণের গড় দাম: ৩০ টাকা\n\n৩. অনুপাত বের করার নিয়ম:\nপানির অংশ (৩৩ - ৩০) = ৩\nদুধের অংশ (৩০ - ০) = ৩০\n\nসুতরাং, পানি : দুধ = ৩ : ৩০ = ১ : ১০। সঠিক উত্তর (B)।"
+  }
 
 ]
