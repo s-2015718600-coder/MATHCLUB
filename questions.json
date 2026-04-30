@@ -179,5 +179,15 @@
     "answer": "A",
     "explanation": "শুরুতে ৫০ লিটার মিশ্রণে চিনির পরিমাণ ছিল ৫০ এর ৩% = $১.৫$ লিটার।\n\nপানি বাষ্পীভূত করলে মিশ্রণে পানির পরিমাণ কমলেও চিনির পরিমাণ ($১.৫$ লিটার) একই থাকবে।\n\nধরি, $x$ লিটার পানি বাষ্পীভূত করতে হবে। তাহলে নতুন মিশ্রণের পরিমাণ হবে $(৫০ - x)$ লিটার।\n\nশর্তমতে, নতুন মিশ্রণে চিনির ঘনত্ব হবে ১০%।\nঅর্থাৎ, $\\frac{১.৫}{৫০ - x} = \\frac{১০}{১০০} = \\frac{১}{১০}$\nবা, $৫০ - x = ১৫$\nবা, $x = ৩৫$ লিটার।\n\nসুতরাং, ৩৫ লিটার পানি বাষ্পীভূত করতে হবে। সঠিক উত্তর (A)।"
   }
+  ,
+  {
+    "id": 20,
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "question": "Solution X is 20% chemical A and 80% chemical B by volume; Solution Y is 30% chemical A and 70% chemical B. If a mixture of X and Y is 22% chemical A, what percent of the mixture is Solution X?",
+    "options": ["20%", "44%", "50%", "80%", "90%"],
+    "answer": "D",
+    "explanation": "আমরা এখানে Alligation বা মিশ্রণের নিয়ম ব্যবহার করে খুব দ্রুত সমাধান করতে পারি।\n\nSolution X-এ রাসায়নিক A-এর পরিমাণ: ২০%\nSolution Y-এ রাসায়নিক A-এর পরিমাণ: ৩০%\nগড় মিশ্রণে রাসায়নিক A-এর পরিমাণ: ২২%\n\nAlligation নিয়ম অনুযায়ী:\nSolution X-এর অংশ (৩০ - ২২) = ৮\nSolution Y-এর অংশ (২২ - ২০) = ২\n\nঅর্থাৎ, X : Y = ৮ : ২ বা ৪ : ১।\n\nপুরো মিশ্রণে Solution X-এর শতকরা হার = $\\frac{৪}{৪ + ১} \\times ১০০$ = ৮০%। সঠিক উত্তর (D)।"
+  }
 
 ]
