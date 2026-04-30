@@ -199,5 +199,15 @@
     "answer": "B",
     "explanation": "বর্তমানে ২৭ গ্যালন মিশ্রণে ৯ গ্যালন বিশুদ্ধ অ্যাসিড আছে।\n\nআমরা যদি 'অপশন টেস্ট' পদ্ধতি ব্যবহার করি:\nধরি, (B) অপশন অনুযায়ী ৯ গ্যালন পানি যোগ করা হলো।\nতাহলে নতুন মিশ্রণের মোট পরিমাণ হবে = ২৭ + ৯ = ৩৬ গ্যালন।\nঅ্যাসিডের পরিমাণ অপরিবর্তিত থাকবে (৯ গ্যালন)।\n\nএখন নতুন ঘনত্বের হার = (৯ / ৩৬) × ১০০% = ২৫%।\nযেহেতু এটি প্রশ্নের শর্তের সাথে মিলে যাচ্ছে, তাই সঠিক উত্তর ৯ গ্যালন। সঠিক উত্তর (B)।"
   }
+  ,
+  {
+    "id": 22,
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "question": "A manufacturer wants to raise the price per ounce of its tahini by 10 percent by making its cylindrical jar taller and narrower without changing the price of the jar. If it decreases the diameter of the jar by 1/5, by what percent should it increase the height?",
+    "options": ["30%", "34%", "36%", "40%", "42%"],
+    "answer": "E",
+    "explanation": "১. যেহেতু দাম অপরিবর্তিত রেখে প্রতি আউন্সের দাম ১০% বাড়ানো হচ্ছে, তাই জারের আয়তন বা ভলিউম $\\frac{১}{১.১}$ গুণ হতে হবে।\n\n২. সিলিন্ডারের আয়তন $V \\propto d^2 h$।\nব্যাস ১/৫ কমানোর অর্থ হলো নতুন ব্যাস আগের ব্যাসের ৪/৫ গুণ।\n\n৩. ধরি, আদি উচ্চতা $h$ এবং নতুন উচ্চতা $H$।\nশর্তমতে, $V_{new} = \\frac{১}{১.১} \\times V_{old}$\nবা, $(\\frac{৪}{৫}d)^2 \\times H = \\frac{১}{১.১} \\times d^2 \\times h$\nবা, $\\frac{১৬}{২৫} \\times H = \\frac{১০}{১১} \\times h$\nবা, $H = \\frac{১০ \\times ২৫}{১১ \\times ১৬} \\times h = \\frac{২৫০}{১৭৬} \\times h \\approx ১.৪২ \times h$\n\nঅর্থাৎ উচ্চতা ৪২% বৃদ্ধি করতে হবে। সঠিক উত্তর (E)।"
+  }
 
 ]
