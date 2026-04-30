@@ -189,5 +189,15 @@
     "answer": "D",
     "explanation": "আমরা এখানে Alligation বা মিশ্রণের নিয়ম ব্যবহার করে খুব দ্রুত সমাধান করতে পারি।\n\nSolution X-এ রাসায়নিক A-এর পরিমাণ: ২০%\nSolution Y-এ রাসায়নিক A-এর পরিমাণ: ৩০%\nগড় মিশ্রণে রাসায়নিক A-এর পরিমাণ: ২২%\n\nAlligation নিয়ম অনুযায়ী:\nSolution X-এর অংশ (৩০ - ২২) = ৮\nSolution Y-এর অংশ (২২ - ২০) = ২\n\nঅর্থাৎ, X : Y = ৮ : ২ বা ৪ : ১।\n\nপুরো মিশ্রণে Solution X-এর শতকরা হার = $\\frac{৪}{৪ + ১} \\times ১০০$ = ৮০%। সঠিক উত্তর (D)।"
   }
+  ,
+  {
+    "id": 21,
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "question": "A solution of 27 gallons of acid contains 9 gallons of pure acid. How much water in gallons should be added to produce a 25 percent solution of this acid?",
+    "options": ["6 3/4", "9", "15 3/4", "18", "27"],
+    "answer": "B",
+    "explanation": "বর্তমানে ২৭ গ্যালন মিশ্রণে ৯ গ্যালন বিশুদ্ধ অ্যাসিড আছে।\n\nআমরা যদি 'অপশন টেস্ট' পদ্ধতি ব্যবহার করি:\nধরি, (B) অপশন অনুযায়ী ৯ গ্যালন পানি যোগ করা হলো।\nতাহলে নতুন মিশ্রণের মোট পরিমাণ হবে = ২৭ + ৯ = ৩৬ গ্যালন।\nঅ্যাসিডের পরিমাণ অপরিবর্তিত থাকবে (৯ গ্যালন)।\n\nএখন নতুন ঘনত্বের হার = (৯ / ৩৬) × ১০০% = ২৫%।\nযেহেতু এটি প্রশ্নের শর্তের সাথে মিলে যাচ্ছে, তাই সঠিক উত্তর ৯ গ্যালন। সঠিক উত্তর (B)।"
+  }
 
 ]
